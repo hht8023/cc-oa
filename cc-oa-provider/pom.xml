@@ -22,4 +22,8 @@
 
     </dependencies>
 
+    <build>
+        <finalName>oa</finalName>
+    </build>
+
 </project>
