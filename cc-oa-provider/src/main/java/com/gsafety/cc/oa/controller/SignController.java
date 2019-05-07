@@ -24,6 +24,7 @@ import java.util.List;
 public class SignController {
 
     @Resource
+
     private SignBiz signBiz;
 
     @GetMapping("/list/v1")
